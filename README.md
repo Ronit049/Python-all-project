@@ -292,17 +292,17 @@ Note: File names may be different in each project folder. Please check the folde
 ---
 📈 Future Improvements
 
-Planned improvements for this repository:
+Planned improvements for this repository:  
 
-Add more Python mini projects
-Add screenshots for every project
-Add live demo links
-Add individual README files inside each folder
-Improve UI of web-based projects
-Add installation guide for each project
-Add requirements.txt for Python projects
-Add advanced automation projects
-Add AI-based features
+Add more Python mini projects  
+Add screenshots for every project  
+Add live demo links  
+Add individual README files inside each folder  
+Improve UI of web-based projects  
+Add installation guide for each project  
+Add requirements.txt for Python projects  
+Add advanced automation projects  
+Add AI-based features  
 ---
 🤝 Contribution
 
