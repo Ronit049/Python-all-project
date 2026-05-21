@@ -360,3 +360,27 @@ Every project in this collection helped me learn something new and improve my de
 More projects and improvements will be added soon.
 ---
 ⭐ If this repository helped you, don't forget to star it!
+
+## Author
+
+**Ronit Raj**
+feel free to Connect 💗  
+[🏆 CodeChef](https://www.codechef.com/users/its_rsr04)
+
+[💡 HackerRank](https://www.hackerrank.com/profile/ronitrajrsr0409)
+---
+
+## Show Your Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+Your support motivates me to build more projects and improve my skills.
+
+---
+
+## Thank You
+
+Thank you for visiting this repository.
+
+I hope this project helps you understand how location-based analysis can be used for smarter business decisions.
+
